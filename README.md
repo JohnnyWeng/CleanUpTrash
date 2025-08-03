@@ -1,5 +1,6 @@
 <img width="1140" height="471" alt="Game scene" src="https://github.com/user-attachments/assets/95a6d8db-3c68-4aa6-b580-156314793e58" />
 
+
 **Theme**
 - A 3D game where the player is in an ocean, surrounded by many other ships, tasked with picking up trash of bottles.
 Focus: Highlight the problem of ocean pollution and encourage players to clean it up.
@@ -18,3 +19,6 @@ Focus: Highlight the problem of ocean pollution and encourage players to clean i
 
 **Tool**
 - Unity (3.11.1)
+
+**Made By**
+- Jeng Yang Weng
