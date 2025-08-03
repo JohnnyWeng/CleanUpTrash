@@ -10,6 +10,11 @@ Focus: Highlight the problem of ocean pollution and encourage players to clean i
   User loss 1 points by hitting the rock.
   Complete the cleanup in 15 seconds to maximize your score.
 
+**Feature**
+- Environment set up (Dynamic ocean, Ships…)
+- Rain particles
+- Balance fun, education, and impact.
+- Points system
+
 **Tool**
 - Unity (3.11.1)
-
